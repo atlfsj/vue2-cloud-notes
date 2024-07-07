@@ -5,6 +5,7 @@
 ## Build Setup
 
 ``` bash
+# node@10.24.1
 # install dependencies
 npm install
 
